@@ -1,0 +1,16 @@
+{
+    "name": "SerializedPolymorphism.Editor",
+    "rootNamespace": "Rydrako.SerializedPolymorphism.Editor",
+    "references": [
+        "GUID:c0e82a066c9230d4581d09f5dfe4d2c2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

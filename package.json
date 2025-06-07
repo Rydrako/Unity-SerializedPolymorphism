@@ -1,0 +1,11 @@
+{
+  "name": "art.rydrako.serializedpolymorphism",
+  "version": "1.0.0",
+  "displayName": "Serialized Polymorphism",
+  "description": "Adds attributes that provide popup options to add subclass instances to SerializeReference fields in the inspector",
+  "unity": "2019.1",
+  "author": {
+    "name": "Rydrako",
+    "url": "https://github.com/Rydrako"
+  }
+}
